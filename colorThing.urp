@@ -1,0 +1,5 @@
+database dbname=color_thing
+sql color_thing.sql
+
+colorThing
+
