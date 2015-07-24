@@ -54,7 +54,7 @@ structure THING = struct
     </body></xml>
 
   and delete id () =
-    dml ( DELETE FROM thing WHERE thing.Id = {[id]} );
+    dml ( DELETE FROM thing WHERE Id = {[id]} );
     xml <- list ();
     return <xml><body>
       <p>Thing deleted.</p>
