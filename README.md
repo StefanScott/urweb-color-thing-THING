@@ -6,7 +6,7 @@ This code is identical to the code in the other repository `urweb-color-thing-T`
 
 The code in *this* repo doesn't compile.
 
-The code in the *other* repository compiles and runs fine!
+The code in the *other* repo compiles and runs fine!
 
 The compile errors for this repo are shown in in Issue 1.
 
